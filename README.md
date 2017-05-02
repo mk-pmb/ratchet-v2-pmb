@@ -17,12 +17,12 @@ npm.
 
 
 In order to be able to fix this package independent from ratchet versioning,
-I'll shift the version number parts to the left:
+I'll decimally shift-left the patch version:
 
-| Version of…   | in name | major | minor | patch |
-|:------------- |:-------:|:-----:|:-----:|:-----:|
-| Ratchet       | —       |   2   |   m   |   p   |
-| This package  | v2      |   m   |   p   | n_fix |
+| Version of…   | major | minor | patch                |
+|:------------- |:-----:|:-----:|:--------------------:|
+| Ratchet       |   2   |   m   |   p                  |
+| This package  |   2   |   m   | (p * 1000) + release |
 
 <!--#toc stop="scan" -->
 
