@@ -15,7 +15,7 @@
   },
 
   "private": false, "license": "MIT",
-  "main": "ratchet-v2-pmb.js",
+  "main": "js/ratchet.min.js",
 
 
   "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
