@@ -1,0 +1,22 @@
+{ "name": "ratchet-v2-pmb",
+  "version": "0.2.1",
+  "description": "The dist/ folder of the ratchet framework, and scripts for publishing it to npm.",
+  "keywords": [],
+
+  "author": "Connor Sears",
+  "homepage": "http://goratchet.com",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/ratchet-v2-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/ratchet-v2-pmb/issues"
+  },
+
+  "private": false, "license": "MIT",
+  "main": "ratchet-v2-pmb.js",
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
